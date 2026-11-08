@@ -1,0 +1,17 @@
+{
+    "version": "0.3.14",
+    "description": "The swarmfile:// git remote helper for clone, fetch and push",
+    "homepage": "https://swarmfile.com",
+    "license": "MIT OR Apache-2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://hub.swarmfile.com/public/swarmfile/swarmfile-git-remote/assets/swarmfile-git-remote-0.3.14-windows-x64.zip?tag=git-v0.3.14",
+            "hash": "105f51b9704fcbe7d01cd92520815ffeb72712a88c37a27301bd5d7f7516b85a"
+        },
+        "arm64": {
+            "url": "https://hub.swarmfile.com/public/swarmfile/swarmfile-git-remote/assets/swarmfile-git-remote-0.3.14-windows-arm64.zip?tag=git-v0.3.14",
+            "hash": "6f435074ee29ee35b8ab7fa5d329b4e38edf6f8ec853fba51e80895f102d71a4"
+        }
+    },
+    "bin": "git-remote-swarmfile.exe"
+}
