@@ -1,16 +1,16 @@
 {
-    "version": "0.3.15",
+    "version": "0.3.16",
     "description": "Connectivity diagnostics for a Swarmfile hub or self-hosted server",
     "homepage": "https://swarmfile.com",
     "license": "MIT OR Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://hub.swarmfile.com/public/swarmfile/swarmfile-doctor/assets/swarmfile-doctor-0.3.15-windows-x64.zip?tag=doctor-v0.3.15",
-            "hash": "d3df6d12ae76f93b9442cc10138c9c8a12fcafef97d787cbd32225573d0608d5"
+            "url": "https://hub.swarmfile.com/public/swarmfile/swarmfile-doctor/assets/swarmfile-doctor-0.3.16-windows-x64.zip?tag=doctor-v0.3.16",
+            "hash": "3f0708ce4eee47ad0b7a23e3ae9e1cbb6104442b817c36e67b568cb9aaef1bca"
         },
         "arm64": {
-            "url": "https://hub.swarmfile.com/public/swarmfile/swarmfile-doctor/assets/swarmfile-doctor-0.3.15-windows-arm64.zip?tag=doctor-v0.3.15",
-            "hash": "e5aecb678f840efd985cba06966e4f51aed5d58337e17c10a7382208116c9a9d"
+            "url": "https://hub.swarmfile.com/public/swarmfile/swarmfile-doctor/assets/swarmfile-doctor-0.3.16-windows-arm64.zip?tag=doctor-v0.3.16",
+            "hash": "77323da46cae346586240367498237f901c75cd38a758fa20f39c044e59d351c"
         }
     },
     "bin": "swarmfile-doctor.exe"

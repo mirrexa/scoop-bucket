@@ -1,16 +1,16 @@
 {
-    "version": "0.3.15",
+    "version": "0.3.16",
     "description": "Migrate a local directory, file list or S3 bucket into a Swarmfile repository",
     "homepage": "https://swarmfile.com",
     "license": "MIT OR Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://hub.swarmfile.com/public/swarmfile/swarmfile-migrate/assets/swarmfile-migrate-0.3.15-windows-x64.zip?tag=migrate-v0.3.15",
-            "hash": "17eafe8715ddbbe5681fdb59062831abfdc681b97306898bad4f4da6b65cd075"
+            "url": "https://hub.swarmfile.com/public/swarmfile/swarmfile-migrate/assets/swarmfile-migrate-0.3.16-windows-x64.zip?tag=migrate-v0.3.16",
+            "hash": "2eb5e76f420c4f7b0feeb8ab6cd5895f3b07e93cadc6fab4ac34ca97f5e0904d"
         },
         "arm64": {
-            "url": "https://hub.swarmfile.com/public/swarmfile/swarmfile-migrate/assets/swarmfile-migrate-0.3.15-windows-arm64.zip?tag=migrate-v0.3.15",
-            "hash": "f6d231f207d1352f267604a5b0f7518a2375056cd651d20a60acf4ac1df99382"
+            "url": "https://hub.swarmfile.com/public/swarmfile/swarmfile-migrate/assets/swarmfile-migrate-0.3.16-windows-arm64.zip?tag=migrate-v0.3.16",
+            "hash": "a1f4831062ba67e855aead572be49c9da4975be018256773d6e90fc4c82b3abb"
         }
     },
     "bin": "swarmfile-migrate.exe"
